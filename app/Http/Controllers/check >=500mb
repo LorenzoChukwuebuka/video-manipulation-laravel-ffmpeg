@@ -1,0 +1,10 @@
+check >=500mb
+bitrate < 320 convert else 
+
+
+
+
+
+
+
+
